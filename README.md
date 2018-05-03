@@ -1,2 +1,3 @@
 # hello-world
-A typically starter repository.
+
+This is just a normal "Hello World" project/repository.
